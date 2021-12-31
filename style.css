@@ -1,0 +1,100 @@
+body {
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-position-y: -115;
+    background-position-x: 0px;
+}
+.container {
+    margin: auto;
+    width: 1107px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    z-index: -1;
+    padding: 52px 88px 136px 88px;
+    margin-top: 50px;
+}
+
+
+/* Logo e titolo */
+
+#logo {
+    width: 250px;
+    margin-bottom: -17px;
+}
+
+.container .logo-titolo {
+    padding-top: 45px;
+    text-align: center;
+    color: #00FF00;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+    margin-bottom: -15px;
+}
+
+
+/* Input prenotazione e accensione luci */
+
+.container .Input1 {
+    background-color: #00FF00;
+    padding: 13px 13px 13px 13px ;
+    margin-bottom: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+/* Contenuto del sito web */
+
+.container .Input2 {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+}
+
+.Input2 .text1 {
+    font-size: 30px;
+    margin-bottom: 6px;
+    color: white;
+    margin-left: 20px;
+}
+
+.Input2 .text2 {
+    font-size: 16px;
+    margin-bottom: 6px;
+    color: white;
+    margin-left: 20px;
+}
+
+.Input2 .text3 {
+    font-size: 16px;
+    margin-bottom: 4px;
+    color: white;
+    margin-left: 20px;
+}
+
+#rettangolo1 {
+    background-color: #EBB55F;
+    height: 32px;
+    width: 383px;
+    border-radius: 7px;
+    margin-bottom: 32px;
+    margin-left: 20px;
+}
+
+#rettangolo2 {
+    background-color: #32CD32;
+    height: 32px;
+    width: 631px;
+    border-radius: 7px;
+    margin-bottom: 32px;
+    margin-left: 20px;
+}
+
+#rettangolo3 {
+    background-color: crimson;
+    height: 32px;
+    width: 129px;
+    border-radius: 7px;
+    margin-left: 20px;
+}
